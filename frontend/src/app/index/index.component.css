@@ -1,3 +1,8 @@
 .pe-7s-look:before {
     content: "\e63e"
 }
+
+img {
+    max-width: 200px; /* Set the maximum width */
+    height: auto; /* Maintain aspect ratio by setting height to auto */
+  }
